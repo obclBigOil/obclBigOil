@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[experiencecornelius.com](http://experiencecornelius.com/)"><img src="o9mrhp.jpg"></a>
+  <img src="o9mrhp.jpg">
 </p>
 
 <!--
